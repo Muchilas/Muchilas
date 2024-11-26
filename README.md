@@ -37,6 +37,8 @@ Atualmente, estou aprendendo **JavaScript** e adoro enfrentar os desafios que su
   - Português (Nativo) 🇧🇷  
   - Inglês (Intermediário) 🇺🇸
  
+---
+ 
   # EN/US - Hello, world! 🌍
   I'm Pedro, a programming enthusiast with a strong interest in the IT field.
   Currently, I'm learning JavaScript and love facing the challenges that come along the way!
